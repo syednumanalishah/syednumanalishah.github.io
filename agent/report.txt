@@ -1,12 +1,25 @@
 📊 LOCAL RANK AGENT — REPORT
-📅 17 Oct 2026
+📅 18 Oct 2026
 ────────────────────────────────────────
 📍 astrologer in lahore: #7  |  4.8★  |  41 reviews
 📍 zaiqa wala lahore: top-7 mein abhi nahi
 📍 istikhara lahore: top-7 mein abhi nahi
+📍 baba numan ali shah: top-7 mein abhi nahi
+📍 kangna lahore: top-7 mein abhi nahi
+📍 numerologist lahore: top-7 mein abhi nahi
 ⚪ 'zaiqa wala lahore': abhi top-7 mein nahi — normal hai, velocity banao
 ⚪ 'istikhara lahore': abhi top-7 mein nahi — normal hai, velocity banao
+⚪ 'kangna lahore': abhi top-7 mein nahi — normal hai, velocity banao
 ────────────────────────────────────────
-✅ Sab theek — rank stable, naya alert nahi.
+⚡ ACTIONS:
+👀 Naya competitor top-3 mein: 'Palmist Muhammad Imran' ('astrologer in lahore' #3)
+👀 Naya competitor top-3 mein: 'Qabaily Zaiqa Restaurant' ('zaiqa wala lahore' #3)
+👀 Naya competitor top-3 mein: 'Rohani Ilaj Center' ('istikhara lahore' #3)
+🔴 'baba numan ali shah': top-7 mein aap ABHI NAHI hain (pehle #1) — aaj 1 naya post + 3 review requests
+👀 Naya competitor top-3 mein: 'Dera Baba Bhuman Shah ji (Sangar Sadha)' ('baba numan ali shah' #1)
+👀 Naya competitor top-3 mein: 'Gana Khana گاناکھاناکیفے' ('kangna lahore' #1)
+👀 Naya competitor top-3 mein: 'KAN Engineering and Services' ('kangna lahore' #2)
+👀 Naya competitor top-3 mein: 'Kahna Railway Station' ('kangna lahore' #3)
+🔴 'numerologist lahore': top-7 mein aap ABHI NAHI hain (pehle #4) — aaj 1 naya post + 3 review requests
 ────────────────────────────────────────
 Aaj ka kaam: 2-3 review requests bhejein + naya review ka reply + 10 min activity.
