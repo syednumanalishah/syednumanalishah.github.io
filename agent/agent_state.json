@@ -1,17 +1,17 @@
 {
  "astrologer in lahore": {
-  "last_run": "2026-11-21",
+  "last_run": "2026-11-22",
   "last_position": 7,
   "last_rating": 4.8,
   "last_reviews": 48,
   "top3": [
-   "Palmist Muhammad Imran",
    "Astrologer Azhar Saleem",
-   "Asad Raza Palmist - best expert palmist"
+   "Asad Raza Palmist - best expert palmist",
+   "Palmist Muhammad Imran"
   ]
  },
  "zaiqa wala lahore": {
-  "last_run": "2026-11-21",
+  "last_run": "2026-11-22",
   "last_position": null,
   "last_rating": null,
   "last_reviews": null,
@@ -22,7 +22,7 @@
   ]
  },
  "istikhara lahore": {
-  "last_run": "2026-11-21",
+  "last_run": "2026-11-22",
   "last_position": null,
   "last_rating": null,
   "last_reviews": null,
@@ -33,35 +33,34 @@
   ]
  },
  "baba numan ali shah": {
-  "last_run": "2026-11-15",
+  "last_run": "2026-11-22",
   "last_position": 1,
   "last_rating": 4.8,
-  "last_reviews": 49,
+  "last_reviews": 48,
   "top3": [
-   "Aamil Baba Numan Ali Shah – Spiritual Healer & Astrologer",
-   "Dargah Baba Budhan ali shah R.A"
+   "Aamil Baba Numan Ali Shah – Spiritual Healer & Astrologer"
   ]
  },
  "kangna lahore": {
-  "last_run": "2026-11-15",
+  "last_run": "2026-11-22",
   "last_position": null,
   "last_rating": null,
   "last_reviews": null,
   "top3": [
    "Kahna Railway Station",
    "Khana Lahore",
-   "Kahna nau Lahore"
+   "Kang"
   ]
  },
  "numerologist lahore": {
-  "last_run": "2026-11-15",
+  "last_run": "2026-11-22",
   "last_position": 4,
   "last_rating": 4.8,
-  "last_reviews": 49,
+  "last_reviews": 48,
   "top3": [
    "Astro Numerologist & Palmist Faisal Imran",
-   "Asad Raza Palmist - best expert palmist",
-   "Dawood Gee Dawood"
+   "Dawood Gee Dawood",
+   "Asad Raza Palmist - best expert palmist"
   ]
  }
 }
